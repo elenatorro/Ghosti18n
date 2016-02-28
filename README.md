@@ -6,9 +6,9 @@ Simple module to support multiple languages in your ghost blog (while they devel
 Clone this repo in your Ghost theme
 
 ##Usage
-In [i18n.js]() include the elements you want to be translated. Check out the [LookJS documentation]() for the translation module.
+In [i18n.js](https://github.com/elenatorro/Ghosti18n/blob/master/lib/i18n.js) include the elements you want to be translated. Check out the [LookJS documentation](https://github.com/elenatorro/LookJS/blob/master/README.md) for the translation module.
 
-Then, the translations have to be added in [languages.js]()
+Then, the translations have to be added in [languages.js](https://github.com/elenatorro/Ghosti18n/blob/master/lib/languages.js)
 
 Include the scripts / compile them in the following order:
 1. Look.js / Look.min.js
