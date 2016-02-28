@@ -1,0 +1,42 @@
+{
+  "name": "lookjs",
+  "description": "Micro library for frontend operations",
+  "homepage": "https://github.com/elenatorro/lookjs",
+  "version": "0.1.6",
+  "main": "./lib/Look.js",
+  "authors": [
+    {
+      "name": "Elena Torró",
+      "email": "elenatorro@gmail.com",
+      "homepage": "https://github.com/elenatorro"
+    }
+  ],
+  "repository": "elenatorro/lookjs",
+  "bugs": {
+    "url": "https://github.com/elenatorro/lookjs/issues"
+  },
+  "keywords": [],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "examples",
+    "node_modules",
+    "test",
+    "tests",
+    "assets"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "PhoenixFramework": "phoenixframework#~0.1.3"
+  },
+  "_release": "0.1.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.6",
+    "commit": "635bd33aaa01483c44d62b43526c1f66c7423976"
+  },
+  "_source": "git://github.com/elenatorro/LookJS.git",
+  "_target": "^0.1.6",
+  "_originalSource": "lookjs",
+  "_direct": true
+}

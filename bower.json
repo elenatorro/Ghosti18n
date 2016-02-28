@@ -1,0 +1,20 @@
+{
+  "name": "ghosti18n",
+  "authors": [
+    "Elena Torro <elenatorro@gmail.com>"
+  ],
+  "description": "Ghost module to support provisional multi language",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "Ghost",
+    "Blogging",
+    "i18n",
+    "languages"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "lookjs": "^0.1.6"
+  }
+}
